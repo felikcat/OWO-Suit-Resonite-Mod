@@ -1,6 +1,6 @@
 == About
 This was a very work-in-progress mod for integrating OWO Suit haptics into Resonite.
 
-Its development stopped out of health concerns; my right arm wouldn't stop spazzing after continous very low intensity shocks (to simulate a hug) for around a minute.
+Its development stopped out of health concerns; my right arm wouldn't stop spazzing after continuous very low intensity shocks (4 on arms, 10 on other parts, to simulate a hug) for around a minute.
 
 You can use the https://owo-game.gitbook.io/c/tools/owo-visualizer[OWO Visualizer] to develop without using an OWO Suit, but I'm too freaked out at this point to even work towards support despite not wearing it.
