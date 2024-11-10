@@ -37,7 +37,7 @@ public class OWOSuitMod : ResoniteMod {
 	public class InputInterfaceCtorPatch {
 		public static void Postfix(InputInterface __instance) {
 			try {
-				OWOSuitDevice suit = new();
+				OWO_New_Driver suit = new();
 				__instance.RegisterInputDriver(suit);
 				UniLog.Log("OWOSuit registered: " + suit.ToString(), false);
 			}
